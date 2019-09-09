@@ -1,0 +1,68 @@
+ P {  margin-top: .75em;
+         margin-bottom: .75em;
+         }
+    P.gutsumm { margin-left: 5%;}
+    P.poetry {margin-left: 3%; }
+    .GutSmall { font-size: 0.7em; }
+    H1, H2 {
+         text-align: center;
+		margin-top: 2em;
+		margin-bottom: 2em;
+         }
+    H3, H4, H5 {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	}
+    BODY{margin-left: 10%;
+         margin-right: 10%;
+        }
+ table { border-collapse: collapse; }
+table {margin-left:auto; margin-right:auto;}
+    td { vertical-align: top; border: 1px solid black;}
+    td p { margin: 0.2em; }
+    .blkquot  {margin-left: 4em; margin-right: 4em;} /* block indent */
+
+    .smcap    {font-variant: small-caps;}
+
+    .pagenum {position: absolute;
+               left: 92%;
+               font-size: small;
+               text-align: right;
+		font-weight: normal;
+               color: gray;
+               }
+    br { border: none; }
+    br.dc { float: left; width: 50px; height: 50px; }
+    p.gutindent { margin-left: 2em; }
+    div.gapspace { height: 0.8em; }
+    div.gapline { height: 0.8em; width: 100%; border-top: 1px solid;}
+    div.gapmediumline { height: 0.3em; width: 40%; margin-left:30%;
+                  border-top: 1px solid; }
+    div.gapmediumdoubleline { height: 0.3em; width: 40%; margin-left:30%;
+		  border-top: 1px solid; border-bottom: 1px solid;}
+     div.gapshortdoubleline { height: 0.3em; width: 20%;
+                  margin-left: 40%; border-top: 1px solid;
+                  border-bottom: 1px solid; }
+    div.gapdoubleline { height: 0.3em; width: 50%;
+                  margin-left: 25%; border-top: 1px solid;
+                  border-bottom: 1px solid;}
+    div.gapshortline { height: 0.3em; width: 20%; margin-left:40%;
+		  border-top: 1px solid; }
+    .citation {vertical-align: super;
+               font-size: .8em;
+               text-decoration: none;}
+    br.floatleft { float: left;
+			margin-right: 1em;
+			margin-top: 0.5em; margin-bottom: 0.5em; }
+    br.floatright { float: right;
+			margin-left: 1em; margin-top: 0.5em;
+			margin-bottom: 0.5em; }
+    br.clearcenter {display: block;
+			margin-left: auto;
+			margin-right: auto; margin-top: 0.5em;
+			margin-bottom: 0.5em}
+.bro{
+text-align: center;
+
+      }

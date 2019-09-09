@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+P {  margin-top: .75em;
+  text-align: justify;
+  margin-bottom: .75em;
+  }
+H1,H2,H3,H4,H5,H6 {
+  text-align: center; /* all headings centered */
+  }
+HR { width: 33%;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+BODY{margin-left: 10%;
+  margin-right: 10%;
+ }
+.linenum  {position: absolute; top: auto; left: 4%;} /* poetry number */
+.note     {margin-left: 2em; margin-right: 2em; margin-bottom: 1em;} /* footnote */
+.blkquot  {margin-left: 4em; margin-right: 4em;} /* block indent */
+.sidenote {width: 20%; margin-bottom: 1em; margin-top: 1em; padding-left: 1em; font-size: smaller; float: right; clear: right;}
+.caption  {text-align: center}
+
+.poem             {margin-left:10%; margin-right:10%; text-align: left;}
+.poem br          {display: none;}
+.poem .stanza     {margin: 1em 0em 1em 0em;}
+.poem span        {display: block; margin: 0; padding-left: 3em; text-indent: -3em;}
+.poem span.i2     {display: block; margin-left: 2em;}
+.poem span.i4     {display: block; margin-left: 4em;}
+.poem span.i3     {display: block; margin-left: 3em;}
+
+span.pagenum
+{position: absolute; left: 1%; right: 91%; font-size: 8pt;}
+span.style
+{
+  margin-left: 2.5em;
+}
